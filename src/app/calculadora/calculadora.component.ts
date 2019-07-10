@@ -8,7 +8,7 @@ import { Component, OnInit } from '@angular/core';
 })
 export class CalculadoraComponent  {
 
-  titulo = 'Aplicacion de Calculadora';
+  titulo = 'Aplicación de Calculadora';
   n1:number;
   n2:number;
   resultado:number;
